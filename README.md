@@ -609,8 +609,8 @@ w = np.clip(w, 0, 1)  # Ensure bounds
 
 ## License & Contact
 
-**Author**: [Your Name]  
-**Institution**: [Your University]  
+**Author**: [Vivek kumar]  
+**Gmail**: [kumarvivek05093896@gmail.com]
 **Date**: February 2026
 
 For questions or contributions, please open an issue on the project repository.
